@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "block/gray_glazed_terracotta/block/0",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "block/gray_glazed_terracotta/block/1",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "block/gray_glazed_terracotta/block/2"
+    },
+    "facing=west": {
+      "model": "block/gray_glazed_terracotta/block/3",
+      "y": 0
+    }
+  }
+}

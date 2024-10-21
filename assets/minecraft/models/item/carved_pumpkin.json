@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/carved_pumpkin",
+  "overrides": [
+    { "predicate": { "custom_model_data": 64001 }, "model": "item/custom/next_logo" },
+    { "predicate": { "custom_model_data": 64002 }, "model": "item/custom/next_logo_blue" },
+    { "predicate": { "custom_model_data": 64003 }, "model": "item/custom/kebab_logo" },
+    { "predicate": { "custom_model_data": 64004 }, "model": "item/custom/kebab_outer_menu" },
+    { "predicate": { "custom_model_data": 64005 }, "model": "item/custom/mclogo" },
+    { "predicate": { "custom_model_data": 64006 }, "model": "item/custom/mctext" },
+    { "predicate": { "custom_model_data": 64007 }, "model": "item/custom/mccafe" }
+  ]
+}

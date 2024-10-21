@@ -1,0 +1,30 @@
+{
+	"hungergames.bordershrink":
+	{
+		"sounds":
+		[
+			"customsound/border_shrink"
+		]
+	},
+	"hungergames.falldamage":
+	{
+		"sounds":
+		[
+			"customsound/fall_damage"
+		]
+	},
+	"hungergames.victory":
+	{
+		"sounds":
+		[
+			"customsound/victory"
+		]
+	},
+	"hungergames.elevator":
+	{
+		"sounds":
+		[
+			"customsound/elevator"
+		]
+	}
+}
